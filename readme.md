@@ -15,11 +15,11 @@ which's a normal div element
 
 ## Examples 
  
-[2048 game](./dist/2048)
+[2048 game](https://nabildroid.github.io/animdom/dist/2048/index.html)
 
-[pong](./dist/pong)
+[pong](https://nabildroid.github.io/animdom/dist/pong/pong/index.html)
 
-[perlin noise](./dist/noise)
+[perlin noise](https://nabildroid.github.io/animdom/dist/noise/index.html)
 
 
 ------

@@ -17,7 +17,7 @@ which's a normal div element
  
 [2048 game](https://nabildroid.github.io/animdom/dist/2048/index.html)
 
-[pong](https://nabildroid.github.io/animdom/dist/pong/pong/index.html)
+[pong](https://nabildroid.github.io/animdom/dist/pong/index.html)
 
 [perlin noise](https://nabildroid.github.io/animdom/dist/noise/index.html)
 

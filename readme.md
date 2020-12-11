@@ -1,5 +1,7 @@
 # DOM Animation Library
 
+![example](./screenshot.png)
+
 yes!, another javascript library for animating the dom,
 
 the main purpose for this library is me been so lazy to learn the Html `canvas` so I tried to imitate `canvas` features using just `div`

@@ -1,15 +1,23 @@
 {
   "name": "animdom",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "typescript library for animate html elements such as div and make it interactive",
+  "main": "dist/main/bundle.js",
+  "types": "dist/main/src/",
   "scripts": {
     "webpack": "webpack",
     "server": "webpack serve --hot --watch --mode development",
     "prod":"webpack --mode production"
   },
-  "author": "",
+  "author": "lakrib nabil",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabildroid/animdom.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@nabildroid"
+  },
   "dependencies": {},
   "devDependencies": {
     "html-webpack-plugin": "^4.5.0",

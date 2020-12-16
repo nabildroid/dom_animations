@@ -4,6 +4,11 @@
         "target": "ES5",
         "allowSyntheticDefaultImports": true,
         "moduleResolution": "Node",
-        "module": "ESNext"
-    }
+        "module": "ESNext",
+	"declaration": true,
+	"outDir": "dist/main"
+    },
+    "exclude": [
+        "./examples/**"
+    ]
 }

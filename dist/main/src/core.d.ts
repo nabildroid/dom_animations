@@ -1,0 +1,11 @@
+import DIV from "./div";
+export declare let _BG: DIV;
+export declare let frame_speed: number;
+export declare let _dots: DIV[];
+export declare function noloop(): void;
+export declare function setUpdate(fct: Function): void;
+export declare function setFrame_speed(fs: any): void;
+export declare function set_BG(bg: DIV): void;
+export declare function multiTransform(elm: HTMLElement, key: string, value: string): void;
+export declare function reverse(s: any): any;
+export declare function clear_dots(): void;
